@@ -24,10 +24,9 @@ After implementing Shortlistd’s autonomous hiring workflow:
 
 | Metric | Before | After | Change |
 |--------|--------|-------|--------|
-| Time-to-hire | 120 days | 5 days | -96% |
-| Manual screening hours | 600+ hrs | 18 hrs | -97% |
+| Time-to-hire | 40 days | 4 days | -96% |
+| Manual screening hours | 50+ hrs | 2 hrs | -97% |
 | Interview scheduling time | 3–4 weeks | <48 hours | -85% |
-| Offer acceptance rate | 72% | 87% | +15% |
 | Cost per hire | Agency dependent | Reduced significantly | ↓ |
 
 The result: scalable, consistent, structured hiring without relying on manual CV filtering.
